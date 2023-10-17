@@ -1,4 +1,9 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnF0cDYzZjJjOHlvd2lldnBidXZqY3YzNWpiMXQyYndhemRmc2FsZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9OzKXHsqvbh3G/giphy.gif" width="480" height="360"/>
+</div>
+
+### About Me
+I am a stinky Electrical Engineering and Computer Science Student.
 
 <!--
 **ThatSealgair/ThatSealgair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
