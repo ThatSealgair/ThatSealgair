@@ -19,7 +19,13 @@
 ### About Me
 Electrical Enginnering and Computer Science student. Majoring in Computer Engineering and Machine Learning.
 
-Interested in communications, quantum computing, simulations and modelling, embedded security, ect. 
+Interested in communications, quantum computing, simulations and modelling, embedded security, ect.
+
+### Currently Working On
+ - [ratlab](https://github.com/ThatSealgair/ratlab): A matrix language that compiles to Rust.
+ - [Sealgair's Specials](https://github.com/ThatSealgair/sealgairs-specials): Commonly used data structures and algorithms in a variety of languages.
+ - [Turbo](https://github.com/ThatSealgair/turbo): Discord bot for UQ MARS.
+ - [Website](https://github.com/ThatSealgair/thatsealgair.github.io/tree/rust-switch): Remaking my website in Rust with Yew.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
