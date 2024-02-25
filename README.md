@@ -26,10 +26,11 @@ Interested in communications, quantum computing, simulations and modelling, embe
  - [Sealgair's Standards](https://github.com/ThatSealgair/sealgairs-standards): Commonly used data structures and algorithms in a variety of languages.
  - [Turbo](https://github.com/ThatSealgair/turbo): Discord bot for UQ MARS.
  - [Website](https://github.com/ThatSealgair/thatsealgair.github.io/tree/rust-switch): Remaking my website in Rust with Yew.
+ - [sqlite clone](https://github.com/ThatSealgair/SPTDDTOR/tree/main/Guided-Projects/sqlite_clone): A sqlite clone written in C.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/embeddedc/embeddedc-original.svg" title="Embedded C" alt="Embedded C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
