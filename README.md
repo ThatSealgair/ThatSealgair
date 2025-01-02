@@ -21,6 +21,8 @@ Electrical Enginnering and Computer Science student. Majoring in Computer Engine
 
 Interested in communications, quantum computing, simulations and modelling, embedded security, ect.
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/Sealgair.png" alt="TryHackMe Profile Badge" />
+
 ### Currently Working On
  - [ratlab](https://github.com/ThatSealgair/ratlab): A matrix language that compiles to Rust.
  - [Sealgair's Standards](https://github.com/ThatSealgair/sealgairs-standards): Commonly used data structures and algorithms in a variety of languages.
