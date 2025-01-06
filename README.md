@@ -25,7 +25,7 @@ Interested in communications, quantum computing, simulations and modelling, embe
 
 ### Currently Working On
  - [ratlab](https://github.com/ThatSealgair/ratlab): A matrix language that compiles to Rust.
- - [Sealgair's Standards](https://github.com/ThatSealgair/sealgairs-standards): Commonly used data structures and algorithms in a variety of languages.
+ - [sec_search](https://github.com/ThatSealgair/sec_search): Convert between Shodan, Censys, and Hunter (where possible)
  - [Turbo](https://github.com/ThatSealgair/turbo): Discord bot for UQ MARS.
  - [Website](https://github.com/ThatSealgair/thatsealgair.github.io/tree/rust-switch): Remaking my website in Rust with Yew.
  - [sqlite clone](https://github.com/ThatSealgair/SPTDDTOR/tree/main/Guided-Projects/sqlite_clone): A sqlite clone written in C.
